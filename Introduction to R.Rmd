@@ -1,6 +1,6 @@
 ---
 title: "Introduction to R"
-author: "Sönke Ehret, NYU Data Services"
+author: "NYU Data Services"
 date: 'Last Updated: December 2016'
 output: pdf_document
 ---
