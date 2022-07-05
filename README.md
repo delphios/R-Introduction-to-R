@@ -1,4 +1,4 @@
-# R-Introduction-to-R
+# R Tutorials
 
 NYU Data Services
 
